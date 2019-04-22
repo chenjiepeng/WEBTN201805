@@ -1,0 +1,49 @@
+{
+    "attachment_folder": "_v_attachments",
+    "created_time": "2019-04-10T12:25:47Z",
+    "files": [
+    ],
+    "image_folder": "",
+    "recycle_bin_folder": "_v_recycle_bin",
+    "sub_directories": [
+        {
+            "name": "00VIDEOLIB"
+        },
+        {
+            "name": "01全栈开发导论-项目概述 FULLSTACK-PROJECT_SPEC"
+        },
+        {
+            "name": "02全栈开发导论-数据库 FULLSTACK-DATABASE_DATABASE"
+        },
+        {
+            "name": "03服务器端技术-JS基础 Server-Side JS BASIC_JAVASCRIPTBASIC"
+        },
+        {
+            "name": "13前端框架技术-Vue.js JS Framework_VUE"
+        },
+        {
+            "name": "14前端技术-Vue.js组件 Client-Side-vue-BASIC_VUEECOSYSTEM"
+        },
+        {
+            "name": "14前端技术-Vue.js组件 Vue-Components_VUEECOSYSTEM"
+        },
+        {
+            "name": "15HTML高级 HTML5CORE_HTML5CORE"
+        },
+        {
+            "name": "16前端扩展-小程序 Front-End-Advanced_WEIXIN"
+        },
+        {
+            "name": "16前端扩展-微信开发 Using-Weixin-JS-SDK_WEIXIN"
+        },
+        {
+            "name": "17移动应用开发 Cordova_HYBRID"
+        },
+        {
+            "name": "18前端框架技术-Angular JS Framework_ANGULAR"
+        }
+    ],
+    "tags": [
+    ],
+    "version": "1"
+}
